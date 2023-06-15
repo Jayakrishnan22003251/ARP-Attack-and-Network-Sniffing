@@ -9,7 +9,7 @@ To explore network sniffing and ARP Attacks
 
 ### Step 1:
 
-Install kali linux either in partition or virtual box or in live mode
+Install kali linux either in partition or virtual box or in  a live mode.
 
 ### Step 2:
 
